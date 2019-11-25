@@ -1,10 +1,10 @@
 # AmazonForest
+# [Amazon-Forest Demo](https://amazonforest.herokuapp.com/#/login)
+
 ![logo](frontend/src/assets/images/icon-smol.png)
 #### A fun Amazon-inspired shopping site for exotic animals. A user can browse by category, search for products, add products to their cart, review/comment/rate a product, and even create a new product.
 
 ![Web Site System](amazonforest.gif)
-
-[Demo](https://amazonforest.herokuapp.com/#/login)
 
 <!-- ## Background and Overview
 ## Functionality and MVP
